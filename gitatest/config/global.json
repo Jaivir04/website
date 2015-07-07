@@ -4,14 +4,11 @@
   },
   "applications": {
     "_default": {
-      "link": "raj"
+      "link": "jasraj"
     },
-    "raj": {
-      "applicationId": "83aicdJHcXiSfn9vzzVWAeqMkmIqfoUJVreaNTob",
-      "masterKey": "gyIsW0qRmhZvHMk7xf2zyTLPsVRjE11AAp6UW6uu"
-    },
-    "rajapp": {
-      "link": "raj"
+    "jasraj": {
+      "applicationId": "ejTuhxgOrk9PdR3QE6JQTDrew1UTQdtNY8cRAfiA",
+      "masterKey": "J85AraNkCDwOFm6gUIz7I0bV1kgmlWjLyDyqjSCQ"
     }
   }
 }
